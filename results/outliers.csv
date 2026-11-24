@@ -1,0 +1,5 @@
+Feature,Lower Bound,Upper Bound,Outlier Count
+Age,-6.6875,64.8125,11
+Fare,-26.724,65.6344,116
+SibSp,-1.5,2.5,46
+Parch,0.0,0.0,213

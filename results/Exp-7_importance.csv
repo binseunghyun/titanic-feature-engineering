@@ -1,0 +1,14 @@
+Feature,Importance
+categorical__Sex,0.1866507759440903
+numeric__Age,0.1675107748547112
+numeric__FarePerPerson,0.15374013692641922
+numeric__Fare,0.15114143925760734
+categorical__Title,0.10298294224100911
+categorical__Pclass,0.05464850543733233
+categorical__HasCabin,0.03939988272994365
+numeric__FamilySize,0.03695400143824075
+categorical__AgeGroup,0.028020721330743344
+categorical__Embarked,0.025738458393529094
+numeric__SibSp,0.024962430320179817
+numeric__Parch,0.018323623967551387
+categorical__IsAlone,0.009926307158642587

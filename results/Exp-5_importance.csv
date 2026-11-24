@@ -1,0 +1,11 @@
+Feature,Importance
+numeric__Age,0.20365859938728081
+numeric__FarePerPerson,0.18863281257322112
+numeric__Fare,0.16300844324128758
+categorical__Title_Mr,0.12281426033208084
+categorical__Sex_male,0.09355072788231562
+categorical__Sex_female,0.09280291107921883
+numeric__FamilySize,0.060401279048933935
+categorical__HasCabin_0,0.02933673020513257
+categorical__HasCabin_1,0.028225038843115693
+categorical__Title_Mrs,0.017569197407412827

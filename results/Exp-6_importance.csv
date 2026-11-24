@@ -1,0 +1,13 @@
+Feature,Importance
+numeric__Fare,0.25487816832753957
+numeric__Age,0.2455272840246173
+categorical__Sex_male,0.14797694792529134
+categorical__Sex_female,0.13730282593057128
+categorical__Pclass_3,0.05013897889497325
+numeric__SibSp,0.0455757561065958
+numeric__Parch,0.03709781151072309
+categorical__Pclass_1,0.030586305818843945
+categorical__Embarked_S,0.017032633182600627
+categorical__Pclass_2,0.015538920433316443
+categorical__Embarked_C,0.011138083183544529
+categorical__Embarked_Q,0.0072062846613829955
